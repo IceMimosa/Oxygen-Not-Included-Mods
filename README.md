@@ -2,7 +2,7 @@
 Mods for Oxygen Not Included
 
 
-## MiniBase fix steps
+## ~~MiniBase fix steps~~ `The author has fixed on 2021-12-21`
 
 1. Go to the mod folder, for example: `/Users/[Your Name]/Library/Application Support/unity.Klei.Oxygen Not Included/mods` on MacOS. 
 2. Create a folder called `local`, and create a local mod called `MiniBase2` or whatever you like. [Here's an explanation why](https://www.reddit.com/r/Oxygennotincluded/comments/hcqlxc/comment/fvlsg8u/?utm_source=share&utm_medium=web2x&context=3)
